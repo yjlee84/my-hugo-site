@@ -1,4 +1,4 @@
-baseURL: "https://yongjailee.netlify.app"
+baseURL: "https://yongjailee.netlify.app/"
 paginate: 5
 theme: PaperMod
 
