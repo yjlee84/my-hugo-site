@@ -6,7 +6,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-relativeURLs: true
 
 minify:
   disableXML: true
@@ -109,7 +108,7 @@ params:
 menu:
   main:
     - name: Jay Lee
-      url: "/"
+      pageRef: "/"
       weight: 10
     #- name: Papers
     #  url: /papers/
@@ -118,13 +117,13 @@ menu:
     #  url: /ongoings/
     #  weight: 30
     - name: Projects
-      url: "/projects"
+      pageRef: "/projects"
       weight: 40
     - name: Teaching
-      url: "/teaching"
+      pageRef: "/teaching"
       weight: 50
     - name: CV
-      url: "/cv"
+      pageRef: "/cv"
       weight: 60
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
