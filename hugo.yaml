@@ -53,7 +53,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Jay (Yongjai) Lee
     subtitle: "Aspiring Economist at Paris School of Economics"
     imageUrl: "/mainpage/officepic.HEIC"
@@ -62,11 +62,11 @@ params:
     imageTitle: Yongjai Lee
     buttons:
       - name: Research
-        url: projects
+        url: "/projects"
       - name: Teaching
-        url: teaching
+        url: "/teaching"
       - name: CV
-        url: cv
+        url: "/cv"
 
   socialIcons:
     - name: cv
@@ -109,7 +109,6 @@ params:
 menu:
   main:
     - name: Jay Lee
-      identifier: ""
       url: "/"
       weight: 10
     #- name: Papers
@@ -119,16 +118,13 @@ menu:
     #  url: /ongoings/
     #  weight: 30
     - name: Projects
-      identifier: "projects"
-      url: projects
+      url: "/projects"
       weight: 40
     - name: Teaching
-      identifier: "teaching"
-      url: teaching
+      url: "/teaching"
       weight: 50
     - name: CV
-      identifier: "cv"
-      url: cv
+      url: "/cv"
       weight: 60
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
