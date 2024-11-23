@@ -124,7 +124,7 @@ menu:
       weight: 40
     - name: Teaching
       identifier: "teaching"
-      url: "/teaching/"
+      url: "https://yongjailee.netlify.app/teaching/"
       weight: 50
     - name: CV
       identifier: "cv"
