@@ -62,11 +62,11 @@ params:
     imageTitle: Yongjai Lee
     buttons:
       - name: Research
-        url: projects
+        url: "https://yongjailee.netlify.app/projects/"
       - name: Teaching
-        url: teaching
+        url: "https://yongjailee.netlify.app/teaching/"
       - name: CV
-        url: cv
+        url: "https://yongjailee.netlify.app/cv/"
 
   socialIcons:
     - name: cv
