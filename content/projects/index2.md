@@ -1,5 +1,5 @@
 ---
-title: "Previous Involvement in Research Projects"
+title: "Research Experience"
 date: 2024-09-01
 draft: false
 summary: "Working experience as a Data Analyst at IIES"

@@ -1,8 +1,8 @@
 ---
-title: "Project in Risk Management"
+title: "Risk Management Project"
 date: 2020-04-01
 draft: false
-summary: "PRIMIA Risk Management Challenge case study"
+summary: "PRIMIA Risk Management Challenge Case Study"
 weight: 5
 ---
 

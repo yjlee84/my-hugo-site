@@ -1,5 +1,5 @@
 ---
-title: "Term Paper"
+title: "Research Term Paper"
 date: 2020-05-01
 draft: false
 summary: "Public child care and fertility: Evidence from a universal child care provision in West Germany"

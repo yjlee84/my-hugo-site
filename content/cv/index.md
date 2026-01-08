@@ -9,6 +9,7 @@ weight: 1
 The complete CV is available [here](/mainpage/Jay_Lee_Resume.pdf) 
 
 ### Employment
+* 2025 - 2026: Intern Analyst, OECD
 * 2023 - 2024: Data Analyst, IIES, Stockholm University 
 * 2019 - 2020: Teaching Assistant, University of Toronto 
 * 2019: Research Assistant, Queen's University 

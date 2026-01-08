@@ -1,4 +1,4 @@
-baseURL: "https://yongjailee.com"
+baseURL: "https://yongjailee.netlify.app/"
 paginate: 5
 theme: PaperMod
 
@@ -61,11 +61,11 @@ params:
     imageTitle: Yongjai Lee
     buttons:
       - name: Research
-        url: projects
+        url: "/projects"
       - name: Teaching
-        url: teaching
+        url: "/teaching"
       - name: CV
-        url: cv
+        url: "/cv"
 
   socialIcons:
     - name: cv
@@ -108,7 +108,7 @@ params:
 menu:
   main:
     - name: Jay Lee
-      url: /
+      pageRef: "/"
       weight: 10
     #- name: Papers
     #  url: /papers/
@@ -117,13 +117,13 @@ menu:
     #  url: /ongoings/
     #  weight: 30
     - name: Projects
-      url: /projects/
+      pageRef: "/projects"
       weight: 40
     - name: Teaching
-      url: /teaching/
+      pageRef: "/teaching"
       weight: 50
     - name: CV
-      url: /cv/
+      pageRef: "/cv"
       weight: 60
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
