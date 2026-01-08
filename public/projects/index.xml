@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on </title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://yongjailee.netlify.app/projects/</link>
     <description>Recent content in Projects on </description>
     <image>
       <title></title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://yongjailee.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yongjailee.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yongjailee.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Year Paper</title>
-      <link>http://localhost:1313/projects/index1/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/index1/</guid>
-      <description>Colonization, international trade, and forced labor: Evidence from Dutch East India Company</description>
+      <title>Second Year Thesis</title>
+      <link>https://yongjailee.netlify.app/projects/index1/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://yongjailee.netlify.app/projects/index1/</guid>
+      <description>Empires of Extraction: Comparing the Colonial Drains of British India, Dutch Indonesia, and French Indochina, 1610–1954</description>
     </item>
     <item>
-      <title>Previous Involvement in Research Projects</title>
-      <link>http://localhost:1313/projects/index2/</link>
+      <title>Research Experience</title>
+      <link>https://yongjailee.netlify.app/projects/index2/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/index2/</guid>
+      <guid>https://yongjailee.netlify.app/projects/index2/</guid>
       <description>Working experience as a Data Analyst at IIES</description>
     </item>
     <item>
       <title>Personal Project - Mapping the beer spots in Paris</title>
-      <link>http://localhost:1313/projects/index3/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/index3/</guid>
+      <link>https://yongjailee.netlify.app/projects/index3/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yongjailee.netlify.app/projects/index3/</guid>
       <description>Highlights the top places in Paris for cheapest beer</description>
     </item>
     <item>
-      <title>Term Paper</title>
-      <link>http://localhost:1313/projects/index4/</link>
+      <title>Research Term Paper</title>
+      <link>https://yongjailee.netlify.app/projects/index4/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/index4/</guid>
+      <guid>https://yongjailee.netlify.app/projects/index4/</guid>
       <description>Public child care and fertility: Evidence from a universal child care provision in West Germany</description>
     </item>
     <item>
-      <title>Project in Risk Management</title>
-      <link>http://localhost:1313/projects/index5/</link>
+      <title>Risk Management Project</title>
+      <link>https://yongjailee.netlify.app/projects/index5/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/index5/</guid>
-      <description>PRIMIA Risk Management Challenge case study</description>
+      <guid>https://yongjailee.netlify.app/projects/index5/</guid>
+      <description>PRIMIA Risk Management Challenge Case Study</description>
     </item>
   </channel>
 </rss>
