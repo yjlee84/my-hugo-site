@@ -9,14 +9,14 @@ weight: 1
 The complete CV is available [here](/mainpage/Jay_Lee_Resume.pdf) 
 
 ### Employment
-* 2025 - 2026: Intern Analyst, OECD
+* 2025 - 2026: Consultant, OECD
 * 2023 - 2024: Data Analyst, IIES, Stockholm University 
 * 2019 - 2020: Teaching Assistant, University of Toronto 
 * 2019: Research Assistant, Queen's University 
 
 ### Education
 
-* 2024 - present : APE in Economics, Paris School of Economics 
+* 2024 - 2026: APE in Economics, Paris School of Economics 
 * 2019 - 2020: MA in Economics, University of Toronto
 * 2014 - 2019: BSc in Economics, Queen’s University
 
