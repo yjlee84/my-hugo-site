@@ -6,3 +6,9 @@ command = "hugo --gc --minify"
 HUGO_VERSION = "0.138.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+from = "/mainpage/Jay_Lee_Resume.pdf"
+to = "https://yjlee84.github.io/autoCV/YongjaiLee_Resume.pdf"
+status = 301
+force = true
