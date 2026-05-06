@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://yongjailee.netlify.app/sitemap.xml
