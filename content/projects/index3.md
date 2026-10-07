@@ -1,8 +1,8 @@
 ---
-title: "Personal Project - Mapping the beer spots in Paris"
+title: "Mapping Beer Prices in Paris"
 date: 2025-08-01
 draft: false
-summary: "Highlights the top places in Paris for cheapest beer"
+summary: "Collaborative data project mapping affordable beer venues across Paris."
 weight: 3
 ---
 
