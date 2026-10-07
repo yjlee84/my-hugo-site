@@ -6,4 +6,4 @@ summary: "Teaching Assistant for ECO200Y1, the undergraduate Microeconomic Theor
 weight: 6
 ---
 
-Served as a Teaching Assistant for ECO200Y1, the undergraduate Microeconomic Theory course at the University of Toronto.
+Served as a Teaching Assistant for ECO200Y1, the undergraduate Microeconomic Theory course at the University of Toronto. Led tutorials, held office hours, supported students with problem sets, and graded assignments and examinations covering intermediate microeconomic theory.
