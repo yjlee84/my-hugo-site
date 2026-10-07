@@ -6,7 +6,38 @@ summary: "Modernised an R-based pipeline to automate the validation, calculation
 weight: 1
 ---
 
-![Workflow from country data submissions through automated validation to the OECD Data Explorer](/images/hcqo_validation_workflow.svg)
+```text
+Country delegates
+       │
+       ▼
+CSV data submissions
+       │
+       ▼
+Standardise data
+       │
+       ▼
+Automated validation ───── Issues found
+       │                         │
+       │                         ▼
+       │                 CSV validation report
+       │                         │
+       │                  Locate and correct
+       │                         │
+       └──────────── Revalidate ◄┘
+       │
+       ▼
+Calculate indicators
+and confidence intervals
+       │
+       ▼
+Review dashboard
+       │
+       ▼
+Database-ready output
+       │
+       ▼
+OECD Data Explorer
+```
 
 As a Consultant at the OECD, I helped strengthen health information infrastructure by modernising and integrating an automated R-based data-processing pipeline for the [Healthcare Quality and Outcomes](https://www.oecd.org/en/topics/health-care-quality-and-outcomes.html) data collection. The tool helps country delegates improve data quality before submission by standardising multi-year data and checking for structural errors, invalid entries, duplicates, missing observations, logical inconsistencies, zero denominators, and unusual year-on-year changes. When issues are detected, it generates and opens CSV validation reports identifying affected observations, making errors easier to locate and correct. The pipeline also calculates indicators and confidence intervals, produces review dashboards, and prepares validated results for database upload, reducing reliance on manual spreadsheet processing and strengthening the consistency and reproducibility of cross-country health data.
 
