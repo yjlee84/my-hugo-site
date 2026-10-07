@@ -1,8 +1,8 @@
 ---
-title: "Research Term Paper"
+title: "Universal Childcare and Fertility in West Germany"
 date: 2020-05-01
 draft: false
-summary: "Public child care and fertility: Evidence from a universal child care provision in West Germany"
+summary: "Difference-in-differences analysis of how universal childcare provision affected fertility across population groups."
 weight: 4
 ---
 
@@ -12,4 +12,4 @@ We utilize the Difference-in-Differences method to evaluate the effect of univer
 
 * [Paper](/pdfs/Empirical_Micro_Paper.pdf) 
 
-* [Slides](/pdfs/Empirical_Micro_Presentation.pdf) 
+* [Slides](/pdfs/Empirical_Micro_Presentation.pdf)

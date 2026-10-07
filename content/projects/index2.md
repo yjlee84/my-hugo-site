@@ -1,8 +1,8 @@
 ---
-title: "Research Experience"
+title: "Historical Data Analysis at IIES"
 date: 2024-09-01
 draft: false
-summary: "Working experience as a Data Analyst at IIES"
+summary: "Constructed historical datasets and analyzed industrialization, railway access, and market integration in Sweden."
 weight: 2
 ---
 
