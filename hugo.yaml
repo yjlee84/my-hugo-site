@@ -54,7 +54,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Jay (Yongjai) Lee
-    subtitle: "Aspiring Economist at Paris School of Economics"
+    subtitle: "Consultant at OECD"
     imageUrl: "/mainpage/officepic.HEIC"
     imageWidth: 205
     imageHeight: 230
