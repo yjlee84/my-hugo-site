@@ -12,5 +12,5 @@ This project measures and compares colonial transfers from British India, the Du
 
 *Co-supervised by* **Thomas Piketty** *and* **Kevin H. O'Rourke**.
 
-* [Paper (PDF)](/pdfs/Public_Finance_Under_Empire_Paper.pdf)
-* [Slides (PDF)](/pdfs/Public_Finance_Under_Empire_Slides.pdf)
+* [Paper](/pdfs/Public_Finance_Under_Empire_Paper.pdf)
+* [Slides](/pdfs/Public_Finance_Under_Empire_Slides.pdf)
