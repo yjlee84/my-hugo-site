@@ -1,5 +1,5 @@
 ---
-title: "Universal Childcare and Fertility in West Germany"
+title: "Public Child Care and Fertility: Evidence from Universal Child Care Provision in West Germany"
 date: 2020-05-01
 draft: false
 summary: "Difference-in-differences analysis of how universal childcare provision affected fertility across population groups."
