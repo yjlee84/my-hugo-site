@@ -1,5 +1,6 @@
 baseURL: "https://yongjailee.netlify.app/"
-paginate: 5
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -60,10 +61,10 @@ params:
     imageHeight: 230
     imageTitle: Yongjai Lee
     buttons:
-      - name: Research
+      - name: About
+        url: "/about"
+      - name: Projects
         url: "/projects"
-      - name: Teaching
-        url: "/teaching"
       - name: CV
         url: "/cv"
 
@@ -107,8 +108,8 @@ params:
 
 menu:
   main:
-    - name: Jay Lee
-      pageRef: "/"
+    - name: About
+      pageRef: "/about"
       weight: 10
     #- name: Papers
     #  url: /papers/
@@ -119,9 +120,6 @@ menu:
     - name: Projects
       pageRef: "/projects"
       weight: 40
-    - name: Teaching
-      pageRef: "/teaching"
-      weight: 50
     - name: CV
       pageRef: "/cv"
       weight: 60
