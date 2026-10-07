@@ -46,6 +46,7 @@
 .post-content .highlight:has(code.language-text) pre,
 .post-content .highlight:has(code.language-text) code {
     background: transparent !important;
+    color: #000 !important;
 }
 
 .dark {
