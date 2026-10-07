@@ -8,6 +8,6 @@ weight: 5
 
 ![swap-spread](/images/swap-spread.png)
 
-Possibility of prolonged COVID-19 risks and permanent damages in productivity of developing countries as a Macroeconomic Stress Test Scenario
+Developed a macroeconomic stress-testing scenario examining how prolonged COVID-19 disruptions could produce persistent productivity losses in developing economies. The project was prepared for the PRMIA Risk Management Challenge and presented as part of an analysis of macroeconomic and financial-system risks.
 
 * [Slides](/pdfs/LTCM_Final_Presentation.pdf)
