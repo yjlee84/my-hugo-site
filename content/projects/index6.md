@@ -5,3 +5,5 @@ draft: false
 summary: "Teaching Assistant for ECO200Y1, the undergraduate Microeconomic Theory course at the University of Toronto."
 weight: 6
 ---
+
+Served as a Teaching Assistant for ECO200Y1, the undergraduate Microeconomic Theory course at the University of Toronto.
