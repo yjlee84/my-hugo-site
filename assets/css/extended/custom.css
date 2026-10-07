@@ -41,6 +41,13 @@
     --marginleft: 26px;
 }
 
+/* Keep text-based workflow diagrams visually integrated with the page. */
+.post-content .highlight:has(code.language-text),
+.post-content .highlight:has(code.language-text) pre,
+.post-content .highlight:has(code.language-text) code {
+    background: transparent !important;
+}
+
 .dark {
     --gap: 15px;
     --content-gap: 20px;
