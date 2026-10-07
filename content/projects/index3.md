@@ -6,4 +6,4 @@ summary: "Collaborative data project mapping affordable beer venues across Paris
 weight: 3
 ---
 
-Collaborative data project with Pavel Lee mapping affordable beer venues across Paris.
+Working Project with a friend, Pavel Lee.
