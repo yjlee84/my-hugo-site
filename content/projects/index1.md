@@ -1,8 +1,8 @@
 ---
-title: "Colonial Extraction and Wealth Transfers, 1610–1954"
+title: "Public Finance under Empire: Colonial Transfers from British India, the Dutch East Indies, and French Indochina"
 date: 2025-09-01
 draft: false
-summary: "Master’s thesis comparing colonial extraction in British India, Dutch Indonesia, and French Indochina."
+summary: "Master’s thesis constructing a harmonized fiscal dataset using OCR and automated table extraction to measure and compare colonial transfers across British India, the Dutch East Indies, and French Indochina."
 weight: 1
 ---
 
