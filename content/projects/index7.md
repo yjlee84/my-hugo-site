@@ -13,32 +13,34 @@ Country delegates
 Prepare CSV data
        │
        ▼
-Standardise data
+Automated pipeline
        │
-       ▼
-Automated validation ─────► Issues found
-       │                          │
-       │                          ▼
-       │                  CSV validation report
-       │                          │
-       │                   Locate and correct
-       │                          │
-       ├───────────── Revalidate ◄┘
-       │
-       ▼
-Validated CSV submissions
-       │
-       ▼
-Calculate indicators
-       │
-       ▼
-Review dashboard
-       │
-       ▼
-Database-ready output
-       │
-       ▼
-OECD Data Explorer
+       ├── Standardise data
+       │          │
+       │          ▼
+       ├── Automated validation ─────► Issues found
+       │          │                         │
+       │          │                         ▼
+       │          │                 Validation report
+       │          │                         │
+       │          │                  Locate and correct
+       │          │                         │
+       │          ├──────────── Revalidate ◄┘
+       │          │
+       │          ▼
+       └── Calculate indicators
+                  │
+                  ▼
+          Review dashboard
+                  │
+                  ▼
+       Validated CSV submissions
+                  │
+                  ▼
+       Database-ready output
+                  │
+                  ▼
+         OECD Data Explorer
 ```
 
 As a Consultant at the OECD, I helped strengthen health information infrastructure by modernising and integrating an automated R-based data-processing pipeline for the [Healthcare Quality and Outcomes](https://www.oecd.org/en/topics/health-care-quality-and-outcomes.html) data collection. The tool helps country delegates improve data quality before submission by standardising multi-year data and checking for structural errors, invalid entries, duplicates, missing observations, logical inconsistencies, zero denominators, and unusual year-on-year changes. When issues are detected, it generates and opens CSV validation reports identifying affected observations, making errors easier to locate and correct. The pipeline also calculates indicators and confidence intervals, produces review dashboards, and prepares validated results for database upload, reducing reliance on manual spreadsheet processing and strengthening the consistency and reproducibility of cross-country health data.
