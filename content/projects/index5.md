@@ -3,7 +3,7 @@ title: "Macroeconomic Stress Testing: COVID-19 and Developing Economies"
 date: 2020-04-01
 draft: false
 summary: "Developed a macroeconomic stress scenario examining the long-term productivity effects of COVID-19 in developing economies."
-weight: 6
+weight: 7
 ---
 
 ![swap-spread](/images/swap-spread.png)

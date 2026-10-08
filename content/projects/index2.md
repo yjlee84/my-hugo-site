@@ -3,7 +3,7 @@ title: "Historical Data Analysis at IIES"
 date: 2024-09-01
 draft: false
 summary: "Constructed historical datasets and analyzed industrialization, railway access, and market integration in Sweden."
-weight: 3
+weight: 4
 ---
 
 As a Data Analyst at the Institute for International Economic Studies, Stockholm University, I contributed to research on Swedish industrialization and structural transformation.

@@ -3,7 +3,7 @@ title: "Public Finance under Empire: Colonial Transfers from British India, the 
 date: 2026-09-01
 draft: false
 summary: "Constructed a harmonized fiscal dataset using OCR and automated table extraction to measure and compare colonial transfers."
-weight: 2
+weight: 3
 ---
 
 ![Colonial fiscal-transfer indicators and estimated net foreign transfers as shares of GDP](/images/public_finance_under_empire_figure_12.png)
