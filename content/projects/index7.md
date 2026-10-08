@@ -30,7 +30,6 @@ Validated CSV data submissions
        │
        ▼
 Calculate indicators
-and confidence intervals
        │
        ▼
 Review dashboard
