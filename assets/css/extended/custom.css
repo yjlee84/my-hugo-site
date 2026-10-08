@@ -79,14 +79,12 @@
     border-top: 1px solid #eadfce;
 }
 
-.post-content .job-alert-preview h2,
-.post-content .job-alert-preview h3,
 .post-content .job-alert-preview h4,
 .post-content .job-alert-preview p {
     margin: 0;
 }
 
-.post-content .job-alert-preview h2 {
+.job-alert-title {
     color: #1b2430;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(21px, 4vw, 28px);
@@ -94,7 +92,7 @@
     line-height: 1.15;
 }
 
-.post-content .job-alert-preview h3 {
+.job-alert-section-title {
     margin-top: 28px;
     color: #7c2d12;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
