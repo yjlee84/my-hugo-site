@@ -10,7 +10,7 @@ weight: 1
 Country delegates
        │
        ▼
-CSV data submissions
+Prepare CSV data
        │
        ▼
 Standardise data
@@ -24,6 +24,9 @@ Automated validation ───── Issues found
        │                  Locate and correct
        │                         │
        └──────────── Revalidate ◄┘
+       │
+       ▼
+Validated CSV data submissions
        │
        ▼
 Calculate indicators
