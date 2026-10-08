@@ -1,5 +1,5 @@
 ---
-title: "Automating Job Discovery and Application Preparation"
+title: "Automating Job Alerts, Tracking, and Drafting"
 date: 2026-10-01
 draft: false
 summary: "Built an automated Python workflow to collect and filter job listings, track applications, and prepare tailored application drafts."
