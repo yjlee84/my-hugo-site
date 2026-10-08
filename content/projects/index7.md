@@ -18,7 +18,7 @@ Automated pipeline
        ├── Standardise data
        │          │
        │          ▼
-       │   Automated validation ─────► Issues found
+       ├── Automated validation ─────► Issues found
        │          │                         │
        │          │                         ▼
        │          │                 Validation report
@@ -28,7 +28,7 @@ Automated pipeline
        │          ├──────────── Revalidate ◄┘
        │          │
        │          ▼
-       │   Calculate indicators
+       ├── Calculate indicators
        │
        ▼
 Review dashboard
