@@ -52,17 +52,22 @@
 /* Responsive preview of an email produced by the job-alert pipeline. */
 .job-alert-preview {
     margin: 24px 0 30px;
-    padding: clamp(22px, 5vw, 34px);
-    color: var(--content);
-    background: var(--theme);
-    border: 1px solid var(--border);
-    border-radius: 16px;
-    box-shadow: 0 10px 28px rgba(39, 66, 102, 0.08);
+    padding: 20px;
+    color: #1f2933;
+    background: #f4f1ea;
     text-align: left;
 }
 
+.job-alert-email-card {
+    padding: clamp(24px, 5vw, 32px);
+    background: #fffdf8;
+    border: 1px solid #e5dccd;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(40, 32, 20, 0.08);
+}
+
 .job-alert-kicker {
-    color: var(--gray);
+    color: #8a6f45;
     font-size: 12px;
     font-weight: var(--semibold);
     letter-spacing: 0.12em;
@@ -71,7 +76,7 @@
 
 .job-alert-rule {
     margin: 16px 0 24px;
-    border-top: 1px solid var(--border);
+    border-top: 1px solid #eadfce;
 }
 
 .post-content .job-alert-preview h2,
@@ -82,14 +87,19 @@
 }
 
 .post-content .job-alert-preview h2 {
-    font-size: clamp(22px, 4vw, 28px);
-    line-height: 1.2;
+    color: #1b2430;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: clamp(21px, 4vw, 28px);
+    font-weight: 700;
+    line-height: 1.15;
 }
 
 .post-content .job-alert-preview h3 {
     margin-top: 28px;
-    color: var(--dkorange);
+    color: #7c2d12;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 18px;
+    font-weight: 700;
 }
 
 .job-alert-item {
@@ -97,52 +107,44 @@
 }
 
 .post-content .job-alert-item h4 {
-    color: var(--content);
-    font-size: 17px;
-    font-weight: var(--semibold);
+    color: #1f2933;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
     line-height: 1.35;
     text-transform: none;
 }
 
-.post-content .job-alert-item p,
-.post-content .job-alert-review p {
-    margin-top: 5px;
-    color: var(--secondary);
+.post-content .job-alert-preview p,
+.post-content .job-alert-preview li {
+    color: #1f2933;
     font-size: 15px;
+    line-height: 1.6;
+}
+
+.post-content .job-alert-item ul {
+    margin: 8px 0 0;
+    padding-left: 20px;
+}
+
+.post-content .job-alert-item li {
+    margin-top: 6px;
 }
 
 .post-content .job-alert-item a {
-    display: inline-block;
-    margin-top: 8px;
-    font-size: 15px;
-    font-weight: var(--semibold);
-}
-
-.job-alert-review {
-    margin-top: 28px;
-    padding-top: 2px;
-    border-top: 1px solid var(--border);
-}
-
-.post-content .job-alert-review h3 {
-    margin-top: 20px;
-}
-
-.job-alert-preview figcaption {
-    margin-top: 26px;
-    color: var(--gray);
+    color: #0f766e;
     font-size: 13px;
-    font-style: italic;
+    overflow-wrap: anywhere;
 }
 
 @media (max-width: 480px) {
     .job-alert-preview {
-        border-radius: 12px;
+        padding: 10px;
     }
 
-    .job-alert-item + .job-alert-item {
-        padding-top: 18px;
-        border-top: 1px solid var(--border);
+    .job-alert-email-card {
+        padding: 20px;
+        border-radius: 14px;
     }
 }
 
