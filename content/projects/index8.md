@@ -8,8 +8,6 @@ weight: 2
 
 {{< job-alert >}}
 
-I built an end-to-end Python workflow to reduce the repetitive work involved in finding and preparing job applications. The pipeline collects postings from configured career pages, extracts and normalises listing details, applies source-specific eligibility filters, prevents duplicate entries, and synchronises new matches with a persistent application tracker. Each run also produces a concise report and can deliver it by email.
-
-For roles selected for review, the workflow uses the OpenAI API to analyse the job description and tailor a résumé and cover letter from existing LaTeX templates. Generation is deliberately constrained: only designated text blocks may be revised, structural checks enforce content limits, and each document must compile successfully and remain within one page. GitHub Actions coordinates the workflow, while tracker statuses keep application decisions and final review under human control.
+I built an end-to-end Python workflow that automates job discovery and application preparation from the moment I log into my computer. A local startup process triggers GitHub Actions, which collects and normalises new postings, applies source-specific eligibility filters, prevents duplicates, and updates a single CSV tracker containing each role's full description, status, and application details. The workflow emails me a job alert, generates a Markdown report, and synchronises the latest files back to my desktop. For roles marked for review, it uses the OpenAI API to tailor résumé and cover-letter drafts from existing LaTeX templates, compiles and validates the one-page PDFs, and stores the resulting application package by job. I can then apply using the prepared drafts and manage the entire process by updating statuses in one tracker.
 
 *Python · GitHub Actions · OpenAI API · LaTeX · SMTP*
