@@ -3,7 +3,7 @@ title: "Public Child Care and Fertility: Evidence from Universal Child Care Prov
 date: 2020-05-01
 draft: false
 summary: "Difference-in-differences analysis of how universal childcare provision affected fertility across population groups."
-weight: 6
+weight: 5
 ---
 
 ![fertility_trend](/images/fertility_trend.png)
