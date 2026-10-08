@@ -16,14 +16,14 @@ Prepare CSV data
 Standardise data
        │
        ▼
-Automated validation ───── Issues found
-       │                         │
-       │                         ▼
-       │                 CSV validation report
-       │                         │
-       │                  Locate and correct
-       │                         │
-       └──────────── Revalidate ◄┘
+Automated validation ─────► Issues found
+       │                          │
+       │                          ▼
+       │                  CSV validation report
+       │                          │
+       │                   Locate and correct
+       │                          │
+       ├───────────── Revalidate ◄┘
        │
        ▼
 Validated CSV data submissions
