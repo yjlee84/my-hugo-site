@@ -28,10 +28,7 @@ Automated pipeline
        │          ├──────────── Revalidate ◄┘
        │          │
        │          ▼
-       ├── Calculate indicators
-       │
-       ▼
-Review dashboard
+       ├── Calculate indicators ─────► Review dashboard
        │
        ▼
 Validated CSV submissions
