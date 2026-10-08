@@ -26,7 +26,7 @@ Automated validation ─────► Issues found
        ├───────────── Revalidate ◄┘
        │
        ▼
-Validated CSV data submissions
+Validated CSV submissions
        │
        ▼
 Calculate indicators
