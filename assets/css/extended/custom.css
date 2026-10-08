@@ -52,9 +52,9 @@
 /* Responsive preview of an email produced by the job-alert pipeline. */
 .job-alert-preview {
     margin: 24px 0 30px;
-    padding: 20px;
+    padding: 0;
     color: #1f2933;
-    background: #f4f1ea;
+    background: transparent;
     text-align: left;
 }
 
@@ -138,10 +138,6 @@
 }
 
 @media (max-width: 480px) {
-    .job-alert-preview {
-        padding: 10px;
-    }
-
     .job-alert-email-card {
         padding: 20px;
         border-radius: 14px;
