@@ -1,3 +1,4 @@
+title: "Jay (Yongjai) Lee | Economist & Data Analyst"
 baseURL: "https://yongjailee.netlify.app/"
 pagination:
   pagerSize: 10
@@ -16,7 +17,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   customCSS: "/css/custom.css"
   title: Yongjai Lee
-  description: "Personal Professional Website"
+  description: "Explore Jay (Yongjai) Lee’s work in economics, data analysis, and public policy, including research, projects, and professional experience."
   keywords: [Yongjai Lee, Jay Lee, Blog, Portfolio, Economics, Economic History, Development, Paris School of Economics]
   author: JayLee
   # author: ["Me", "You"] # multiple authors
